@@ -38,6 +38,6 @@
 <img align="left" alt="ramsey's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RamseyvanderMeer&show_icons=true&hide_border=true" />
 
 
-[website]: https://ramseyvdm.com
+[website]: http://ramseyvdm.com
 [instagram]: https://instagram.com/ramseyvandermeer
 [linkedin]: https://linkedin.com/in/ramseyvandermeer
