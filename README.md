@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Web Design
 - 🌱 I’m currently learning as much as I can
 - 👯 I’m looking to learn more about back end web design
-- 🥅 2020 Goals: expand my knoulage of node.js
+- 🥅 2021 Goals: expand my knoulage of node.js
 - ⚡ Fun fact: I am a student at Menlo Atherton HS
 
 ### Connect with me:
