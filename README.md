@@ -3,9 +3,8 @@
 ## I'm a Student and a Developer!
 - 🔭 I’m currently working on Web Design
 - 🌱 I’m currently learning as much as I can
-- 👯 I’m looking to learn more about back end web design
-- 🥅 2021 Goals: expand my knoulage of node.js
-- ⚡ Fun fact: I am a student at Menlo Atherton HS
+- 🥅 Goals: Learn Next.js and Typescript
+- ⚡ Fun fact: I am a student at UIUC
 
 ### Connect with me:
 
