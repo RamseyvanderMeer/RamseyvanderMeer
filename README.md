@@ -17,9 +17,13 @@ Most of my recent work sits at the edge of AI and systems engineering. I like ta
 
 An AI-powered automotive diagnostics platform that turns fault codes, vehicle context, and technical repair content into repair guidance. Built with FastAPI, conversational RAG, ChromaDB, GCP Cloud Run, Google OAuth, Redis rate limits, and secure API access.
 
+Demo: [mist-expo.vercel.app/sign-in](https://mist-expo.vercel.app/sign-in)
+
 ### [Autonomous X Research Agent](https://github.com/RamseyvanderMeer/social-media-inference-bot)
 
 A Grok + LlamaIndex research agent over simulated X data. It plans, decomposes tasks, calls tools, retrieves context with hybrid semantic/keyword search, replans when results are weak, and exports evaluation metrics.
+
+No hosted demo right now because it depends on model API keys, but the repo includes Docker setup, mock data generation, and evaluation outputs so the workflow can be run locally.
 
 ### [LLM Ranking by ELO](https://github.com/RamseyvanderMeer/rankingElo)
 
@@ -28,6 +32,8 @@ A lightweight human-preference ranking app for comparing LLM responses. It uses 
 ### [LLM Testing](https://github.com/RamseyvanderMeer/llm-testing)
 
 An early evaluation pipeline for comparing LLM-generated data corrections across OpenAI, Anthropic, Gemini, Llama, and Mistral-style providers, with JSON repair and scoring workflows.
+
+No hosted demo; this is mainly a reproducible evaluation/prototyping repo for comparing provider behavior and failure modes.
 
 ## Links
 
