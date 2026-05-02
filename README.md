@@ -1,24 +1,35 @@
-### Hi there, I'm Ramsey
+# Ramsey van der Meer
 
-## I'm a Student and a Developer!
+I build AI systems that actually have to run in production: RAG apps, agentic workflows, evaluation tools, auth-heavy backend services, and the infrastructure around them.
 
+Most of my recent work sits at the edge of AI and systems engineering. I like taking a rough model-powered idea and turning it into something observable, secure, and reliable enough for real users.
 
-### Connect with me:
+## What I Work On
 
-[<img align="left" alt="ramseyvdm.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="ramsey | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ramsey | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- AI applications with LLMs, RAG, embeddings, vector search, and evaluation loops
+- Backend systems in Python, FastAPI, Go, TypeScript, PostgreSQL, Redis, and Kafka
+- Production infrastructure with GCP, Docker, Kubernetes, Terraform, GitHub Actions, Prometheus, and Grafana
+- Agentic workflows, browser automation, data pipelines, and reliability tooling
 
-<br />
+## Featured Projects
 
----
+### [MIST](https://github.com/RamseyvanderMeer/mist)
 
-<img align="left" alt="ramsey's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RamseyvanderMeer&show_icons=true&hide_border=true" />
+An AI-powered automotive diagnostics platform that turns fault codes, vehicle context, and technical repair content into repair guidance. Built with FastAPI, conversational RAG, ChromaDB, GCP Cloud Run, Google OAuth, Redis rate limits, and secure API access.
 
+### [Autonomous X Research Agent](https://github.com/RamseyvanderMeer/social-media-inference-bot)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamseyvanderMeer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+A Grok + LlamaIndex research agent over simulated X data. It plans, decomposes tasks, calls tools, retrieves context with hybrid semantic/keyword search, replans when results are weak, and exports evaluation metrics.
 
+### [LLM Ranking by ELO](https://github.com/RamseyvanderMeer/rankingElo)
 
-[website]: http://ramseyvdm.com
-[instagram]: https://instagram.com/ramseyvandermeer
-[linkedin]: https://linkedin.com/in/ramseyvandermeer
+A lightweight human-preference ranking app for comparing LLM responses. It uses pairwise voting and ELO-style updates to turn subjective model outputs into a more useful ranking signal.
+
+### [LLM Testing](https://github.com/RamseyvanderMeer/llm-testing)
+
+An early evaluation pipeline for comparing LLM-generated data corrections across OpenAI, Anthropic, Gemini, Llama, and Mistral-style providers, with JSON repair and scoring workflows.
+
+## Links
+
+- Website: [ramseyvdm.com](https://www.ramseyvdm.com)
+- LinkedIn: [linkedin.com/in/ramseyvandermeer](https://www.linkedin.com/in/ramseyvandermeer)
